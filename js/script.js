@@ -135,7 +135,7 @@ function showSuspenseSequence() {
             div.textContent = message;
             result_box.appendChild(div);
         }, delay);
-        delay += 1500; // 1.5-second delay between messages
+        delay += 1900; // 1.5-second delay between messages
     });
 
     // Show the final surprise after the suspense sequence
