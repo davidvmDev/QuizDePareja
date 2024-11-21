@@ -149,8 +149,8 @@ function showFinalSurprise() {
     result_box.innerHTML = `
         <div class="final-message">
             <h3>¿Quieres ser mi novia? ❤️</h3>
-            <img src="https://github.com/davidvmDev/QuizDePareja/blob/main/imagen1.jpeg" alt="Picture 1">
-            <img src="https://github.com/davidvmDev/QuizDePareja/blob/main/imagen2.jpeg" alt="Picture 2">
+            <img src="https://github.com/davidvmDev/QuizDePareja/blob/main/imagen1.jpeg?raw=true" alt="Picture 1">
+            <img src="https://github.com/davidvmDev/QuizDePareja/blob/main/imagen2.jpeg?raw=true" alt="Picture 2">
         </div>
     `;
 }
